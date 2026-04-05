@@ -1,0 +1,72 @@
+{
+  "app": {
+    "title": "AI 翻訳ツール",
+    "login": "ログイン",
+    "logout": "ログアウト",
+    "email": "メールを入力"
+  },
+  "tabs": {
+    "text": "テキスト翻訳",
+    "file": "ファイル翻訳",
+    "image": "画像翻訳",
+    "glossary": "用語集"
+  },
+  "textTranslation": {
+    "sourceLang": "ソース言語",
+    "targetLang": "ターゲット言語",
+    "auto": "自動検出",
+    "inputPlaceholder": "翻訳するテキストを入力してください...",
+    "translationStyle": "翻訳スタイル",
+    "industry": "業界",
+    "translate": "翻訳",
+    "result": "翻訳結果"
+  },
+  "fileTranslation": {
+    "selectFile": "ファイルを選択",
+    "fileTip": "PDF、Word、Excel、PowerPoint などに対応",
+    "translateTables": "ファイル内の表を翻訳",
+    "translateImages": "ファイル内の画像を翻訳",
+    "emailOption": "翻訳後にメールを送信",
+    "emailPlaceholder": "メールアドレスを入力"
+  },
+  "imageTranslation": {
+    "uploadImage": "画像をアップロード",
+    "imageTip": "または、下の入力ボックスに直接画像を貼り付ける"
+  },
+  "glossary": {
+    "import": "用語集をインポート",
+    "description": "ソース言語とターゲット言語の対応関係を含む CSV 形式の用語集ファイルをアップロードしてください",
+    "uploadGlossary": "用語集をアップロード",
+    "glossaryTip": "CSV 形式に対応、形式: ソース用語,ターゲット用語"
+  },
+  "styles": {
+    "general": "一般",
+    "formal": "正式",
+    "casual": "カジュアル",
+    "literary": "文学的"
+  },
+  "industries": {
+    "general": "一般",
+    "tech": "技術",
+    "medical": "医療",
+    "legal": "法律",
+    "finance": "金融"
+  },
+  "languages": {
+    "zh": "中国語",
+    "en": "英語",
+    "ja": "日本語",
+    "ko": "韓国語",
+    "fr": "フランス語",
+    "de": "ドイツ語"
+  },
+  "messages": {
+    "inputRequired": "翻訳するテキストを入力してください",
+    "translationFailed": "翻訳に失敗しました。後でもう一度お試しください",
+    "fileTranslationSuccess": "ファイルの翻訳が成功しました",
+    "fileTranslationFailed": "ファイルの翻訳に失敗しました。後でもう一度お試しください",
+    "imageTranslationFailed": "画像の翻訳に失敗しました。後でもう一度お試しください",
+    "glossaryImportSuccess": "用語集のインポートに成功しました",
+    "glossaryImportFailed": "用語集のインポートに失敗しました。後でもう一度お試しください"
+  }
+}

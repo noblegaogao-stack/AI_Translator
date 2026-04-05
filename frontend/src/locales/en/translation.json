@@ -1,0 +1,72 @@
+{
+  "app": {
+    "title": "AI Translation Tool",
+    "login": "Login",
+    "logout": "Logout",
+    "email": "Enter email"
+  },
+  "tabs": {
+    "text": "Text Translation",
+    "file": "File Translation",
+    "image": "Image Translation",
+    "glossary": "Glossary"
+  },
+  "textTranslation": {
+    "sourceLang": "Source Language",
+    "targetLang": "Target Language",
+    "auto": "Auto Detect",
+    "inputPlaceholder": "Please enter text to translate...",
+    "translationStyle": "Translation Style",
+    "industry": "Industry",
+    "translate": "Translate",
+    "result": "Translation Result"
+  },
+  "fileTranslation": {
+    "selectFile": "Select File",
+    "fileTip": "Supports PDF, Word, Excel, PowerPoint, etc.",
+    "translateTables": "Translate tables in file",
+    "translateImages": "Translate images in file",
+    "emailOption": "Send email after translation",
+    "emailPlaceholder": "Enter email address"
+  },
+  "imageTranslation": {
+    "uploadImage": "Upload Image",
+    "imageTip": "Or paste image directly into the input box below"
+  },
+  "glossary": {
+    "import": "Import Glossary",
+    "description": "Upload CSV format glossary file, containing source and target language correspondences",
+    "uploadGlossary": "Upload Glossary",
+    "glossaryTip": "Supports CSV format, format: source term,target term"
+  },
+  "styles": {
+    "general": "General",
+    "formal": "Formal",
+    "casual": "Casual",
+    "literary": "Literary"
+  },
+  "industries": {
+    "general": "General",
+    "tech": "Technology",
+    "medical": "Medical",
+    "legal": "Legal",
+    "finance": "Finance"
+  },
+  "languages": {
+    "zh": "Chinese",
+    "en": "English",
+    "ja": "Japanese",
+    "ko": "Korean",
+    "fr": "French",
+    "de": "German"
+  },
+  "messages": {
+    "inputRequired": "Please enter text to translate",
+    "translationFailed": "Translation failed, please try again later",
+    "fileTranslationSuccess": "File translation successful",
+    "fileTranslationFailed": "File translation failed, please try again later",
+    "imageTranslationFailed": "Image translation failed, please try again later",
+    "glossaryImportSuccess": "Glossary imported successfully",
+    "glossaryImportFailed": "Glossary import failed, please try again later"
+  }
+}

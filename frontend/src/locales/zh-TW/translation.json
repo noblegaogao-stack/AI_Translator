@@ -1,0 +1,72 @@
+{
+  "app": {
+    "title": "AI 翻譯工具",
+    "login": "登入",
+    "logout": "登出",
+    "email": "輸入郵箱"
+  },
+  "tabs": {
+    "text": "文字翻譯",
+    "file": "文件翻譯",
+    "image": "圖片翻譯",
+    "glossary": "術語表"
+  },
+  "textTranslation": {
+    "sourceLang": "源語言",
+    "targetLang": "目標語言",
+    "auto": "自動檢測",
+    "inputPlaceholder": "請輸入要翻譯的文本...",
+    "translationStyle": "翻譯風格",
+    "industry": "行業規範",
+    "translate": "翻譯",
+    "result": "翻譯結果"
+  },
+  "fileTranslation": {
+    "selectFile": "選擇文件",
+    "fileTip": "支援 PDF、Word、Excel、PowerPoint 等格式",
+    "translateTables": "翻譯文件內表格",
+    "translateImages": "翻譯文件內圖片",
+    "emailOption": "翻譯完成後發送郵件",
+    "emailPlaceholder": "輸入郵箱地址"
+  },
+  "imageTranslation": {
+    "uploadImage": "上傳圖片",
+    "imageTip": "或直接粘貼圖片到下方輸入框"
+  },
+  "glossary": {
+    "import": "導入術語表",
+    "description": "上傳 CSV 格式的術語表文件，包含源語言和目標語言的對應關係",
+    "uploadGlossary": "上傳術語表",
+    "glossaryTip": "支援 CSV 格式，格式為：源術語,目標術語"
+  },
+  "styles": {
+    "general": "通用",
+    "formal": "正式",
+    "casual": "口語化",
+    "literary": "文學"
+  },
+  "industries": {
+    "general": "通用",
+    "tech": "技術",
+    "medical": "醫療",
+    "legal": "法律",
+    "finance": "金融"
+  },
+  "languages": {
+    "zh": "中文",
+    "en": "英語",
+    "ja": "日語",
+    "ko": "韓語",
+    "fr": "法語",
+    "de": "德語"
+  },
+  "messages": {
+    "inputRequired": "請輸入要翻譯的文本",
+    "translationFailed": "翻譯失敗，請稍後重試",
+    "fileTranslationSuccess": "文件翻譯成功",
+    "fileTranslationFailed": "文件翻譯失敗，請稍後重試",
+    "imageTranslationFailed": "圖片翻譯失敗，請稍後重試",
+    "glossaryImportSuccess": "術語表導入成功",
+    "glossaryImportFailed": "術語表導入失敗，請稍後重試"
+  }
+}

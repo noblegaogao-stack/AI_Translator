@@ -1,0 +1,72 @@
+{
+  "app": {
+    "title": "AI 翻译工具",
+    "login": "登录",
+    "logout": "退出",
+    "email": "输入邮箱"
+  },
+  "tabs": {
+    "text": "文字翻译",
+    "file": "文件翻译",
+    "image": "图片翻译",
+    "glossary": "术语表"
+  },
+  "textTranslation": {
+    "sourceLang": "源语言",
+    "targetLang": "目标语言",
+    "auto": "自动检测",
+    "inputPlaceholder": "请输入要翻译的文本...",
+    "translationStyle": "翻译风格",
+    "industry": "行业规范",
+    "translate": "翻译",
+    "result": "翻译结果"
+  },
+  "fileTranslation": {
+    "selectFile": "选择文件",
+    "fileTip": "支持 PDF、Word、Excel、PowerPoint 等格式",
+    "translateTables": "翻译文件内表格",
+    "translateImages": "翻译文件内图片",
+    "emailOption": "翻译完成后发送邮件",
+    "emailPlaceholder": "输入邮箱地址"
+  },
+  "imageTranslation": {
+    "uploadImage": "上传图片",
+    "imageTip": "或直接粘贴图片到下方输入框"
+  },
+  "glossary": {
+    "import": "导入术语表",
+    "description": "上传 CSV 格式的术语表文件，包含源语言和目标语言的对应关系",
+    "uploadGlossary": "上传术语表",
+    "glossaryTip": "支持 CSV 格式，格式为：源术语,目标术语"
+  },
+  "styles": {
+    "general": "通用",
+    "formal": "正式",
+    "casual": "口语化",
+    "literary": "文学"
+  },
+  "industries": {
+    "general": "通用",
+    "tech": "技术",
+    "medical": "医疗",
+    "legal": "法律",
+    "finance": "金融"
+  },
+  "languages": {
+    "zh": "中文",
+    "en": "英语",
+    "ja": "日语",
+    "ko": "韩语",
+    "fr": "法语",
+    "de": "德语"
+  },
+  "messages": {
+    "inputRequired": "请输入要翻译的文本",
+    "translationFailed": "翻译失败，请稍后重试",
+    "fileTranslationSuccess": "文件翻译成功",
+    "fileTranslationFailed": "文件翻译失败，请稍后重试",
+    "imageTranslationFailed": "图片翻译失败，请稍后重试",
+    "glossaryImportSuccess": "术语表导入成功",
+    "glossaryImportFailed": "术语表导入失败，请稍后重试"
+  }
+}
